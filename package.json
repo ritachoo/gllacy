@@ -1,0 +1,17 @@
+{
+  "name": "gllacy",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "repository": "git@github.com:ritachoo/578479-gllacy-25.git",
+  "author": "Rita Chumaevskaya <rita.choo@yahoo.com>",
+  "license": "MIT",
+  "scripts": {
+    "minify": "yarn run gulp"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-csso": "^3.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
